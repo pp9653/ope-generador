@@ -14,10 +14,10 @@ export default function Generator() {
           />
         </a>
       </div>
-      <p className="text-center uppercase font-semibold text-xl mb-10" contenteditable="true">
+      <p className="text-center uppercase font-semibold text-xl mb-10" contentEditable="true">
         Comunicado de Prensa
       </p>
-      <div className="text-lg" contenteditable="true">
+      <div className="text-lg" contentEditable="true">
         <p>
           Ciudad de Buenos Aires, 23 de noviembre de 2023.- El Presidente
           Electo, Javier Milei, encabezó esta mañana una reunión con sus equipos
